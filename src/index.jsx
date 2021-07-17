@@ -2,9 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import ArticleContainer from './components/ArticleContainer';
-import Title from './components/Title';
+import {Title} from './components/Title';
 import Paragraph from './components/Paragraph';
-import EnNegrita from './components/EnNegrita';
+import {EnNegrita} from './components/EnNegrita';
 import DeColorRojo from './components/DeColorRojo';
 
 

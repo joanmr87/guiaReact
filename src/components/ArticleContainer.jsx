@@ -1,6 +1,6 @@
 import React from 'react';
 
-function ArticleContainer(props) {
+export function ArticleContainer(props) {
     return <div>{props.children}</div>
   }
 
